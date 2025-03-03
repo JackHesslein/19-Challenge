@@ -14,3 +14,6 @@ npm i
 
 # Video Walkthrough
 https://drive.google.com/file/d/1waqSZ4JwbWXv4e22_nsNPZ5-6E6q-yoj/view?usp=sharing 
+
+# Disclaimer
+There are errors in the code and it is not entirely operational yet
